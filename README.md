@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amitabh Chaurasia</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitabhchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="amitabhchaurasia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitabhchaurasia" alt="amitabhchaurasia" /></a> </p>
-
 - 🔭 I’m currently working on [Blood4All - Bridging Lives through Blood Donation](https://github.com/Amitabhchaurasia/Bllood4All)
 
 - 🌱 I’m currently learning **Stream API**
