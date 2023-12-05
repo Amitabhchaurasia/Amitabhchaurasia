@@ -1,12 +1,12 @@
 <!-- Header Section -->
-<h1 align="center">Hi there! 👋 I'm Amitabh Chaurasia</h1>
+<h1 align="center">Hi there! 👋 I'm Amitabh </h1>
 <h3 align="center">Passionate Backend Developer from India 🇮🇳</h3>
 
 <!-- Introduction Section -->
-<p align="center">Welcome to my GitHub profile! I'm Amitabh Chaurasia, a dedicated backend developer with a love for coding and a mission to make a difference through technology. Here's a glimpse of my journey:</p>
+<p align="center">Welcome to my GitHub profile! I'm Amitabh , a dedicated backend developer with a love for coding and a mission to make a difference through technology. Here's a glimpse of my journey:</p>
 
 <!-- Contact Section -->
-<p align="center">Feel free to reach out to me via email: <a href="mailto:amitabhchaurasia8@gmail.com">amitabhchaurasia8@gmail.com</a></p>
+<p align="center">Feel free to reach out to me via email: </p>
 
 <!-- Badges Section -->
 <p align="center">
